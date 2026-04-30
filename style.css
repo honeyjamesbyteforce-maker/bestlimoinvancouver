@@ -23,7 +23,7 @@ header {
     color: #cbd5e1;
 }
 
-h1, h2, h3 {
+h2, h3 {
     color: #0a2540;
 }
 
@@ -48,4 +48,7 @@ footer {
     text-align: center;
     padding: 20px;
     margin-top: 40px;
+}
+header h1 {
+    color: white;
 }
